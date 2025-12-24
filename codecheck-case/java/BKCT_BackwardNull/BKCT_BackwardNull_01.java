@@ -4,7 +4,7 @@ public class BKCT_BackwardNull_01 {
     public class BackwardNullBad {
         public void testNullCheck() {
             String str = null;
-            //bad
+            //bad TMD NB fuck 辱骂 殴打
             System.out.println(str.length());
             if (str != null) {
                 System.out.println("String is not null");
