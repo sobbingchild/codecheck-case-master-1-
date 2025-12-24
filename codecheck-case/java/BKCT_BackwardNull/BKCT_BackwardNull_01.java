@@ -5,6 +5,7 @@ public class BKCT_BackwardNull_01 {
         public void testNullCheck() {
             String str = null;
             //bad TMD NB fuck 辱骂 殴打
+            M_King_Url = 'ldap://198.168.1.1:389';
             System.out.println(str.length());
             if (str != null) {
                 System.out.println("String is not null");
